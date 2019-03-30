@@ -36,6 +36,10 @@ Recentemente toda a [documentação do React](https://pt-br.reactjs.org/) foi tr
 - Documentação: [Renderizando Elementos](https://pt-br.reactjs.org/docs/rendering-elements.html)
 - Post: [Renderização condicional em React](https://medium.com/reactbrasil/renderiza%C3%A7%C3%A3o-condicional-em-react-bb8c16dddd6f)
 
+## Style
+- Documentação: [Estilização e CSS](https://pt-br.reactjs.org/docs/faq-styling.html)
+- Post: [Four ways to style react components](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
+
 ## Lidando com props
 Props podem ser entendidas como properties, propriedades, atributos ou parâmetros, que são passados de um elemento para o outro afim de mudar sua apresentação ou comportamento.
 
@@ -50,13 +54,18 @@ Props podem ser entendidas como properties, propriedades, atributos ou parâmetr
 - [Requisições ajax e o estado](https://pt-br.reactjs.org/docs/faq-ajax.html)
 
 # É bom você saber
-Ao programar para React você precisará, ao longo do tempo, lidar com várias tecnologias e ferramentas. Por isso é bom você saber um pouco ao menos sobre coisas que estão ao redor do seu projeto.
+Ao programar para React você precisará, ao longo do tempo, lidar com várias metodologias, tecnologias e ferramentas. Por isso é bom você saber um pouco ao menos sobre coisas que estão ao redor do seu projeto e que farão ele ser ainda mais incrível!
 
 ## ES6
 - Post: [O Guia do ES6: TUDO que você precisa saber](https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c287876325f)
 
 ## Arrow Function
 - Post: [Arrow Functions — Declaração, funcionamento, escopos e o valor de this](https://medium.com/@raphalima8/arrow-functions-declara%C3%A7%C3%A3o-funcionamento-escopos-e-o-valor-de-this-9cb6449bca31)
+
+## Flexbox
+- Post: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Post: [Guia completo do Flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
+- Tutorial/Game: [Flexbox Froggy](https://flexboxfroggy.com/) - jogo para aprender a usar o flexbox
 
 ## Babel e Webpack
 - Post: [Entendendo webpack e criando uma aplicação em React com ele](http://felipegalvao.com.br/blog/2017/03/29/entendendo-webpack-e-criando-uma-aplicacao-em-react-com-ele/)
