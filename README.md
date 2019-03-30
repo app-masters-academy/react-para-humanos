@@ -19,7 +19,7 @@ Neste moemento ele inicializará seu projeto e através do browser você poderá
 
 Se isso acontecer, seu ambiente está pronto!
 
-## Instalando uma IDE
+## Instalando a IDE
 
 Será necessário uma IDE para se programar... sugerimos [VSCode](https://code.visualstudio.com/) ou [Web Storm](https://www.jetbrains.com/webstorm/).
 
