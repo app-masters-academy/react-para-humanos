@@ -69,3 +69,4 @@ Ao programar para React você precisará, ao longo do tempo, lidar com várias m
 
 ## Babel e Webpack
 - Post: [Entendendo webpack e criando uma aplicação em React com ele](http://felipegalvao.com.br/blog/2017/03/29/entendendo-webpack-e-criando-uma-aplicacao-em-react-com-ele/)
+- Ferramenta: [Experimente o Babel em tempo real](https://babeljs.io/repl/#?presets=react)
