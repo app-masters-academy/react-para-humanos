@@ -1,10 +1,10 @@
 # React para Humanos
 Este repositório serve de suporte ao treinamento [React para Humanos](https://academy.appmasters.io/) da **App Masters Academy**. Apresentamos informaçòes iniciais para configuração do ambiente e inicio do projeto com React, bem como receberá todos links e conteúdos adicionais necessários ao longo do treinamento.
 
-## Projeto do treinamento
+## Apresentação e projeto do treinamento
 Cada turma terá um repositório com os códigos do projeto realizado em sala, para consulta quando necessário. O código apresentado pelo professor é atualizado em tempo real no repositório online.
 
-- Quarta turma - [Just Coders Network](https://github.com/app-masters-academy/just-coders-network) - Uma rede social apenas para desenvolvedores
+- Quarta turma - Projeto: [Just Coders Network](https://github.com/app-masters-academy/just-coders-network) - Apresentação: [Google Presentation](https://docs.google.com/presentation/d/1SxDLvpLew6bQ_nmtRAqEdIvFlkp-clfXBUIqcW4EFAc/edit?usp=sharing)
 
 # Preparação do ambiente
 
