@@ -6,7 +6,7 @@ Cada turma terá um repositório com os códigos do projeto realizado em sala, p
 
 - Quarta turma - Projeto: [Just Coders Network](https://github.com/app-masters-academy/just-coders-network) - Apresentação: [Google Presentation](https://docs.google.com/presentation/d/1SxDLvpLew6bQ_nmtRAqEdIvFlkp-clfXBUIqcW4EFAc/edit?usp=sharing)
 
-# Preparação o ambiente
+# Preparação do ambiente
 
 ## Instalação do node
 O primeiro passo é instalar o [node](https://www.taniarascia.com/how-to-install-and-use-node-js-and-npm-mac-and-windows/) em sua máquina, a versão LTS. Escolha entre [Windows](https://medium.com/@adsonrocha/como-instalar-o-node-js-no-windows-10-cf2bd460b8a8), [Linux](https://medium.com/collabcode/como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os-729fb4c92f2d) e [Mac](https://receitasdecodigo.com.br/nodejs/instalacao-nodejs-no-mac). Ao final da instalação, ao executar `node -v` em seu terminal deverá ser apresentada a versão instalada.
